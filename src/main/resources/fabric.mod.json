@@ -3,13 +3,15 @@
   "id": "safer_dripstone",
   "version": "${version}",
   "name": "Safer Dripstone",
-  "description": "",
+  "description": "Makes minecraft dripstone just a tad bit safer.",
   "authors": [
     "Likly"
   ],
   "contact": {
-    "repo": "https://github.com/likly/safer_dripstone"
+    "sources": "https://github.com/Likroll/saferdripstone",
+    "issues": "https://github.com/Likroll/saferdripstone/issues"
   },
+  "icon": "assets/safer_dripstone/icon.png",
   "license": "GPL-3.0",
   "environment": "*",
   "mixins": [
